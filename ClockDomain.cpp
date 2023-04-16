@@ -30,7 +30,7 @@ namespace ClockDomain
 		ds[0] = 0;
 		ds[1] = 1;
 		zs[1] = x;
-		ns[1] = (int)x; 
+		ns[1] = (int)x;
 
 		for (i = 1; i<MAX_ITER-1; i++)
 		{
